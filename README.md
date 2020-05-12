@@ -7,4 +7,4 @@ Headline,Day,Date,Time and the complete news in the body of the news.
 
 The tool used for this is Scrapy as it can easily scrape,clean and format large volumes of data easily.
 
-The final outputs can be seen in the news.csv,news1.csv file which stored the scraped information.
+The final outputs can be seen in the news.csv , news1.csv and news2.csv file which stored the scraped information.
